@@ -1,0 +1,21 @@
+{
+  "name": "@wzlin/emoji-data",
+  "version": "14.0.0",
+  "description": "List of fully-qualified Unicode emoji code points and descriptions",
+  "main": "data.json",
+  "types": "data.d.ts",
+  "files": [
+    "data.d.ts",
+    "data.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilsonzlin/emoji-data.git"
+  },
+  "author": {
+    "email": "npm@wilsonl.in",
+    "name": "Wilson Lin",
+    "url": "https://wilsonl.in/"
+  },
+  "license": "ISC"
+}
